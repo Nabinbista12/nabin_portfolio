@@ -1,4 +1,4 @@
 let typed = new Typed('#element', {
-    strings: ['Web developement', 'App development'],
+    strings: ['Web developement', 'App development', 'Python development', 'Frontend and Backend Development'],
     typeSpeed: 50,
 });
